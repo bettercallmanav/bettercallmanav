@@ -3,12 +3,6 @@
   Gurugram, India · <a href="mailto:mailtomanav14@gmail.com">mailtomanav14@gmail.com</a> · <a href="https://linkedin.com/in/bettercallmanav">LinkedIn</a>
 </p>
 
-<p align="center">
-  <a href="https://cicadaapparels.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge">
-  </a>
-</p>
-
 ---
 
 ## Professional Summary
